@@ -8,4 +8,4 @@ Image of my GUI
 feature  descriptions 
 -  [ ] item 1
 
-text description for website
+idk what to put here
