@@ -8,4 +8,11 @@ Image of my GUI
 feature  descriptions 
 -  [ ] item 1
 
-idk what to put here
+Text Descriptions for website
+-[]
+_____
+document map
+- [] music player description
+ -[] gui and colours.
+
+ 
